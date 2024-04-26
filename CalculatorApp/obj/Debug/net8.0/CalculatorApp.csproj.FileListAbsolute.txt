@@ -1,0 +1,14 @@
+/Users/dattatray.reve/Documents/Projects/backend-template-spike/CalculatorApp/bin/Debug/net8.0/CalculatorApp
+/Users/dattatray.reve/Documents/Projects/backend-template-spike/CalculatorApp/bin/Debug/net8.0/CalculatorApp.deps.json
+/Users/dattatray.reve/Documents/Projects/backend-template-spike/CalculatorApp/bin/Debug/net8.0/CalculatorApp.runtimeconfig.json
+/Users/dattatray.reve/Documents/Projects/backend-template-spike/CalculatorApp/bin/Debug/net8.0/CalculatorApp.dll
+/Users/dattatray.reve/Documents/Projects/backend-template-spike/CalculatorApp/bin/Debug/net8.0/CalculatorApp.pdb
+/Users/dattatray.reve/Documents/Projects/backend-template-spike/CalculatorApp/obj/Debug/net8.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dattatray.reve/Documents/Projects/backend-template-spike/CalculatorApp/obj/Debug/net8.0/CalculatorApp.AssemblyInfoInputs.cache
+/Users/dattatray.reve/Documents/Projects/backend-template-spike/CalculatorApp/obj/Debug/net8.0/CalculatorApp.AssemblyInfo.cs
+/Users/dattatray.reve/Documents/Projects/backend-template-spike/CalculatorApp/obj/Debug/net8.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/dattatray.reve/Documents/Projects/backend-template-spike/CalculatorApp/obj/Debug/net8.0/CalculatorApp.dll
+/Users/dattatray.reve/Documents/Projects/backend-template-spike/CalculatorApp/obj/Debug/net8.0/refint/CalculatorApp.dll
+/Users/dattatray.reve/Documents/Projects/backend-template-spike/CalculatorApp/obj/Debug/net8.0/CalculatorApp.pdb
+/Users/dattatray.reve/Documents/Projects/backend-template-spike/CalculatorApp/obj/Debug/net8.0/CalculatorApp.genruntimeconfig.cache
+/Users/dattatray.reve/Documents/Projects/backend-template-spike/CalculatorApp/obj/Debug/net8.0/ref/CalculatorApp.dll
